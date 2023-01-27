@@ -4,7 +4,7 @@
 Для удобства, данные с парсинга сохранены в **smartphones.json**. Если отдельно запустить скрипт для парсинга, файл будет заменен и сохранен с схожим названием. 
 Файл **app.py** запускает приложение Flask. 
 ## Использованные технологии 
-⋅⋅* Selenium Web Driver 
-⋅⋅* BeautifulSoup 
-⋅⋅* Flask 
-⋅⋅* Docker
+- Selenium Web Driver 
+- BeautifulSoup 
+- Flask 
+- Docker
