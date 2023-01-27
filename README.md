@@ -8,3 +8,5 @@
 - BeautifulSoup 
 - Flask 
 - Docker
+## Примеры использования
+![image](https://user-images.githubusercontent.com/77623559/215009302-dc14cb12-91bf-4941-8a4f-1c86c4b6bc35.png)
