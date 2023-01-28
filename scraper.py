@@ -74,7 +74,7 @@ for i in range(len(names)):
     }
     smartphones.append(dict)
 
-with open("C:/Users/Lenovo LEGION/Desktop/Career/propeople/smartphones.json", mode="a") as file:
+with open("smartphones.json", mode="a") as file:
     json.dump(smartphones, file, indent=4)
 
 
