@@ -3,7 +3,7 @@ from flask import Flask, request
 
 app = Flask(__name__)
 
-with open('smartphones.json', 'r') as file:
+with open('C:\\Users\\Lenovo LEGION\\Desktop\\Career\\propeople\\smartphones.json', 'r') as file:
     data = json.load(file)
 
 @app.route("/smartphones", methods=["GET"])
